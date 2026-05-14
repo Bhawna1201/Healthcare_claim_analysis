@@ -1,8 +1,5 @@
 # Injectable Anesthesia Claims Analysis
-### BIA 810 — Health Care Data & Analytics | Stevens Institute of Technology | Spring 2026
 
-**Team 3:** Bhawna · Sheng-Min Huang · Silvia Carasel · Rahul Deb  
-**Professor:** Sanjiv Koshal
 
 ---
 
