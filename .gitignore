@@ -1,9 +1,4 @@
-# Raw sensitive data — never push to public repo
-Medicare_Claims_data_part_1.csv
-Medicare_Claims_data_part_2.csv
-Medicare_Claims_data_part_3.csv
-Medicare_Claims_data_part_4.csv
-Medicare_Claims_data_part_5.csv
+# Raw sensitive data — excluded from public repo
 Patient_demographics_data.csv
 HCP_demographics_data.csv
 
