@@ -197,9 +197,3 @@ A four-phase Recovery Playbook with measurable outcomes:
 
 ---
 
-## Course Information
-
-**Course:** BIA 810 — Health Care Data & Analytics  
-**Institution:** Stevens Institute of Technology  
-**Term:** Spring 2026  
-**Project:** Injectable Anesthesia Market — Competitive Landscape & Recovery Strategy
