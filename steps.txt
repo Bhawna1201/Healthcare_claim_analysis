@@ -1,0 +1,2 @@
+ source "/Users/sandeep/Downloads/healthcare project/.venv/bin/activat
+e"

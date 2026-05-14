@@ -1,0 +1,23 @@
+# Raw sensitive data — never push to public repo
+Medicare_Claims_data_part_1.csv
+Medicare_Claims_data_part_2.csv
+Medicare_Claims_data_part_3.csv
+Medicare_Claims_data_part_4.csv
+Medicare_Claims_data_part_5.csv
+Patient_demographics_data.csv
+HCP_demographics_data.csv
+
+# Output CSV contains patient/claim IDs — exclude from public repo
+outputs/analysis_ready_claims_python.csv
+
+# PowerPoint file
+*.pptx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
